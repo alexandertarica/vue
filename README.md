@@ -14,7 +14,7 @@ Homeowners commit six figures to a yard they can't picture. They see a 2D plan a
 
 ## What we heard
 
-We interviewed 9 homeowners and 2 residential landscape designers about their last real projects, without pitching the idea, then grouped the findings with the K-J method.
+We interviewed 9 homeowners and 3 residential landscape designers about their last real projects, without pitching the idea, then grouped the findings with the K-J method.
 
 - **7 of 9** homeowners hit a real gap between what they pictured and what got built
 - **6 of 9** found their firm through someone they knew, so an unhappy client can cost a referral too
