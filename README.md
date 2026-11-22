@@ -29,6 +29,7 @@ That changed the goal. We set out to help firms close more jobs, and added clien
 | **Built** | An Unreal Engine backyard, shown across two screens as one continuous view |
 | **Built** | Changes made from a phone, by text or voice |
 | **Built** | A tabletop version and a projected, wall-scale version |
+| **Built** | A local web prototype: a designer shares private links, two decision-makers answer five design questions as a 3D yard changes, and a report shows where they agree and disagree |
 | **Today** | About 90 seconds per change |
 | **Target** | Under 10 seconds per change |
 | **Next** | Wraparound at life scale, real supplier materials, and testing live pricing |
@@ -45,7 +46,7 @@ That changed the goal. We set out to help firms close more jobs, and added clien
 
 ## My role
 
-I built the Unreal prototype using AI coding tools. Natalie and I worked on the research and concept together.
+Founder and project lead. I built the prototypes using AI coding tools. Natalie and I worked on the research and concept together.
 
 ---
 © 2026 Alexander Tarica and Natalie Elliott-Cisneros. All rights reserved.
